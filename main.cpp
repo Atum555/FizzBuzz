@@ -1,6 +1,6 @@
 #include <iostream>
 
-int FizzBuzz(int Number) {
+void FizzBuzz(int Number) {
    int x = 0;
    if (Number % 3 == 0) {x = 1;}
    if (Number % 5 == 0) {x += 2;}
@@ -21,7 +21,6 @@ int FizzBuzz(int Number) {
    else if (x == 3) {
       std::cout << "FizzBuzz\n";
    }
-   return 0;
 }
 
 int main() {
