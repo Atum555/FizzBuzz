@@ -7,4 +7,4 @@ Basically you enter a number and it will loop from 1 to the number you entered
 Displaying either the number itself or a 'Fizz' if it is divisable by 3 and a 'Buzz; if divisable by 5.
 
 Done by:
-  Claudio Meireles.
+    Claudio Meireles.
